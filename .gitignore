@@ -20,3 +20,4 @@ ExpertoOpenCode/.opencode/.gitignore
 
 
 #Objetos a omitir
+!ExpertoOpenCode/.opencode/agent
