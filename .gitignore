@@ -1,0 +1,22 @@
+#GLOBALES
+
+#Objetos a ignorar
+*.env*
+
+#Objetos a omitir
+!.env.example
+
+
+##############################################
+##############################################
+
+
+#Experto OpenCode
+
+#Objetos a ignorar
+ExpertoOpenCode/practicas/
+ExpertoOpenCode/.opencode/node_modules
+ExpertoOpenCode/.opencode/.gitignore
+
+
+#Objetos a omitir
